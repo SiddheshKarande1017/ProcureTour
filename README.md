@@ -19,5 +19,5 @@ ProcureTour is a Tour recommendation web app with Restaurant searches using coll
   ```
 6. Run app.py
   ```python
-  python app.py
+   python app.py
   ```
