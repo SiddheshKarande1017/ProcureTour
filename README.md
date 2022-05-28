@@ -6,18 +6,18 @@ ProcureTour is a Tour recommendation web app with Restaurant searches using coll
 1. Create a personal Fork of this repository.
 2. Clone the fork with HTTPS, using your local terminal to a preferred location, and cd into the project.
 3. Create your virtual environment, and activate it.
-   ```python
-   python -m venv env
-   ```
+  ```python
+  python -m venv env
+  ```
 4. Install dependencies
-   ```python
-   pip install -r requirements.txt
-   ```
+  ```python
+  pip install -r requirements.txt
+  ```
 5. Run local server
-  ```python
-  python manage.py runserver
-  ```
+ ```python
+ python manage.py runserver
+ ```
 6. Run app.py
-  ```python
-   python app.py
-  ```
+ ```python
+ python app.py
+ ```
